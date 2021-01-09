@@ -1,0 +1,11 @@
+{
+  "name": "slate-editor",
+  "version": "1.0.0",
+  "description": "Featured slate editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Racicot",
+  "license": "MIT"
+}
